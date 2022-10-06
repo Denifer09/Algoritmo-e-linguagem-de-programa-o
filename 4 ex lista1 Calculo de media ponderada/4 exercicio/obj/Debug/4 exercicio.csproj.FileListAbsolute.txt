@@ -1,0 +1,8 @@
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\4 exercicio\4 exercicio\bin\Debug\4 exercicio.exe.config
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\4 exercicio\4 exercicio\bin\Debug\4 exercicio.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\4 exercicio\4 exercicio\bin\Debug\4 exercicio.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\4 exercicio\4 exercicio\obj\Debug\4 exercicio.csproj.AssemblyReference.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\4 exercicio\4 exercicio\obj\Debug\4 exercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\4 exercicio\4 exercicio\obj\Debug\4 exercicio.csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\4 exercicio\4 exercicio\obj\Debug\4 exercicio.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\4 exercicio\4 exercicio\obj\Debug\4 exercicio.pdb

@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\progr\exercicio 3\exercicio 3\obj\Debug\exercicio 3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\progr\exercicio 3\exercicio 3\obj\Debug\exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\progr\exercicio 3\exercicio 3\bin\Debug\exercicio 3.exe.config
+C:\Users\user\Desktop\progr\exercicio 3\exercicio 3\bin\Debug\exercicio 3.exe
+C:\Users\user\Desktop\progr\exercicio 3\exercicio 3\bin\Debug\exercicio 3.pdb
+C:\Users\user\Desktop\progr\exercicio 3\exercicio 3\obj\Debug\exercicio 3.exe
+C:\Users\user\Desktop\progr\exercicio 3\exercicio 3\obj\Debug\exercicio 3.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\ads\linguagem c#\exercicio 3\exercicio 3\bin\Debug\exercicio 3.exe.config
+C:\Users\jaque\OneDrive\Área de Trabalho\ads\linguagem c#\exercicio 3\exercicio 3\bin\Debug\exercicio 3.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\ads\linguagem c#\exercicio 3\exercicio 3\bin\Debug\exercicio 3.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\ads\linguagem c#\exercicio 3\exercicio 3\obj\Debug\exercicio 3.csproj.AssemblyReference.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\ads\linguagem c#\exercicio 3\exercicio 3\obj\Debug\exercicio 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\ads\linguagem c#\exercicio 3\exercicio 3\obj\Debug\exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\ads\linguagem c#\exercicio 3\exercicio 3\obj\Debug\exercicio 3.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\ads\linguagem c#\exercicio 3\exercicio 3\obj\Debug\exercicio 3.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\1 comisão\exercicio 3\bin\Debug\exercicio 3.exe.config
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\1 comisão\exercicio 3\bin\Debug\exercicio 3.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\1 comisão\exercicio 3\bin\Debug\exercicio 3.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\1 comisão\exercicio 3\obj\Debug\exercicio 3.csproj.AssemblyReference.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\1 comisão\exercicio 3\obj\Debug\exercicio 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\1 comisão\exercicio 3\obj\Debug\exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\1 comisão\exercicio 3\obj\Debug\exercicio 3.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\1 comisão\exercicio 3\obj\Debug\exercicio 3.pdb

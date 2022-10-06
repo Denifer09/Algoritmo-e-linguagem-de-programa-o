@@ -1,0 +1,23 @@
+C:\Users\user\Desktop\progr\exercicio 2.1\exercicio 2.1\obj\Debug\exercicio 2.1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\progr\exercicio 2.1\exercicio 2.1\obj\Debug\exercicio 2.1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\progr\exercicio 2.1\exercicio 2.1\bin\Debug\exercicio 2.1.exe.config
+C:\Users\user\Desktop\progr\exercicio 2.1\exercicio 2.1\bin\Debug\exercicio 2.1.exe
+C:\Users\user\Desktop\progr\exercicio 2.1\exercicio 2.1\bin\Debug\exercicio 2.1.pdb
+C:\Users\user\Desktop\progr\exercicio 2.1\exercicio 2.1\obj\Debug\exercicio 2.1.exe
+C:\Users\user\Desktop\progr\exercicio 2.1\exercicio 2.1\obj\Debug\exercicio 2.1.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\operaçoes matematicas\exercicio 2.1\obj\Debug\exercicio 2.1.csproj.AssemblyReference.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\operaçoes matematicas\exercicio 2.1\obj\Debug\exercicio 2.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\operaçoes matematicas\exercicio 2.1\obj\Debug\exercicio 2.1.csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\operaçoes matematicas\exercicio 2.1\obj\Debug\exercicio 2.1.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\operaçoes matematicas\exercicio 2.1\obj\Debug\exercicio 2.1.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\operaçoes matematicas\exercicio 2.1\bin\Debug\exercicio 2.1.exe.config
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\operaçoes matematicas\exercicio 2.1\bin\Debug\exercicio 2.1.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\operaçoes matematicas\exercicio 2.1\bin\Debug\exercicio 2.1.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\2 exercicio\exercicio 2.1\bin\Debug\exercicio 2.1.exe.config
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\2 exercicio\exercicio 2.1\bin\Debug\exercicio 2.1.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\2 exercicio\exercicio 2.1\bin\Debug\exercicio 2.1.pdb
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\2 exercicio\exercicio 2.1\obj\Debug\exercicio 2.1.csproj.AssemblyReference.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\2 exercicio\exercicio 2.1\obj\Debug\exercicio 2.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\2 exercicio\exercicio 2.1\obj\Debug\exercicio 2.1.csproj.CoreCompileInputs.cache
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\2 exercicio\exercicio 2.1\obj\Debug\exercicio 2.1.exe
+C:\Users\jaque\OneDrive\Área de Trabalho\Programação\linguagem c#\2 exercicio\exercicio 2.1\obj\Debug\exercicio 2.1.pdb
